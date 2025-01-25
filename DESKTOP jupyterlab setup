@@ -4,4 +4,16 @@ https://github.com/jupyterlab/jupyterlab-desktop?tab=readme-ov-file
 
 check python path from cmd
 where python
-which python
+which python (in macOS)
+e.g. C:\Users\indrani\AppData\Local\Microsoft\WindowsApps
+
+Run from python installation path in cmd to create project enironment named jupyer__playyground
+python -m venv jupyter_playground
+cd C:\Users\indrani\AppData\Local\Microsoft\WindowsApps\jupyter_playground\Scripts
+activate
+
+install libraries
+pip install jupyterlab pandas
+Launch jupiterlab desktop from projrct directiory in cmd-
+jupyterlab .
+
