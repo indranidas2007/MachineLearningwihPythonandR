@@ -1,0 +1,7 @@
+install python 3.13 using cmd
+install jupyterlab for destop from-
+https://github.com/jupyterlab/jupyterlab-desktop?tab=readme-ov-file
+
+check python path from cmd
+where python
+which python
