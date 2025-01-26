@@ -17,3 +17,7 @@ pip install jupyterlab pandas
 Launch jupiterlab desktop from projrct directiory in cmd-
 jupyterlab .
 
+This will open jupyterlab. Update server path n settings as Jupyter evn path
+e.g. C:\Users\indrani\AppData\Local\Microsoft\WindowsApps\jupyter_playground
+start noteboo and start coding
+
